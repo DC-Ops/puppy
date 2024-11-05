@@ -1,2 +1,4 @@
 github.com/DC-Ops/gshep v0.0.0-20241103114635-6808d9d9e927 h1:1GPPbbRubsqTNxe/9rDGe0pludQvl3t9byLmq9Ij63Y=
 github.com/DC-Ops/gshep v0.0.0-20241103114635-6808d9d9e927/go.mod h1:91yH3pXqH47aXP412vVdOO2njjPgC+e6o/DV+KcS2AA=
+github.com/DC-Ops/gshep v1.0.0 h1:ZqGicyXmVFScTKrkgLuUpVawsPDr/t60IhzQo/NHAH8=
+github.com/DC-Ops/gshep v1.0.0/go.mod h1:91yH3pXqH47aXP412vVdOO2njjPgC+e6o/DV+KcS2AA=
