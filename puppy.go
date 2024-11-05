@@ -5,7 +5,7 @@ import (
 )
 
 func BasicBark() string {
-	sound := "Woof!"
+	sound := "Woof! Woof!"
 	return sound
 }
 
